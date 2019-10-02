@@ -1,80 +1,33 @@
 [
   {
-    "name": "Overview",
+    "name": "Introduction",
     "id": 0,
     "items": [
       {
-        "name": "About Search UI 🚀",
-        "id": 1,
+        "name": "Overview",
+        "id": 0,
         "href": "/"
+      },
+      {
+        "name": "Quickstart",
+        "id": 1,
+        "href": "/quickstart"
       }
     ]
   },
   {
-    "name": "References",
+    "name": "Tutorials",
     "id": 1,
     "items": [
       {
-        "name": "Getting Started 🐣",
+        "name": "Adding Site Search to any CMS",
         "id": 0,
-        "href": "/references/getting-started"
+        "href": "/tutorials/adding-site-search-to-any-cms"
       },
       {
-        "name": "Frequently Asked Questions 🔮",
+        "name": "Building a smart 404 page with Swiftype",
         "id": 1,
-        "href": "/references/faqs"
-      }
-    ]
-  },
-  {
-    "name": "Advanced",
-    "id": 2,
-    "items": [
-      {
-        "name": "Headless Core",
-        "id": 0,
-        "href": "/advanced/headless-core"
-      },
-      {
-        "name": "Component Reference",
-        "id": 1,
-        "href": "/advanced/component-reference"
-      },
-      {
-        "name": "Customization",
-        "id": 2,
-        "href": "/advanced/customization"
-      },
-      {
-        "name": "Advanced Configuration",
-        "id": 3,
-        "href": "/advanced/advanced-configuration"
-      },
-      {
-        "name": "Build Your Own Components",
-        "id": 4,
-        "href": "/advanced/build-your-own-components"
-      },
-      {
-        "name": "Connectors and Handlers",
-        "id": 5,
-        "href": "/advanced/connectors-and-handlers"
-      },
-      {
-        "name": "Performance",
-        "id": 6,
-        "href": "/advanced/performance"
-      }
-    ]
-  },
-  {
-    "name": "Guides",
-    "id": 3,
-    "items": [
-      {
-        "name": "Contributing Guide",
-        "id": 10,
-        "href": "/contributing"
+        "href": "/tutorials/smart-404"
       }
     ]
   }
