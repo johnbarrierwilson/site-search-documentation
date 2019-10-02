@@ -1,6 +1,6 @@
 ---
 title: "Building a smart 404 page with Swiftype"
-section: "/smart-404"
+slug: "/smart-404"
 ---
 
 # Building a smart 404 page with Swiftype
